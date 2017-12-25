@@ -1,0 +1,18 @@
+.App {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+}
+
+.App-Config {
+  display: flex;
+  margin: 20px;
+}
+.App-Config > *:last-child {
+  margin-left: auto;
+}
+
+.App-Actions {
+  margin: 20px;
+}
